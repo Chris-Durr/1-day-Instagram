@@ -1,0 +1,66 @@
+.container-fluid {
+    background-color: white;
+    padding: 5px 0px 5px 70px;
+    border-bottom: 1px solid #DBDBDB;
+
+}
+#mainnav {
+    padding: 0px;
+}
+body{
+    background-color: #FAFAFA;
+    margin: 0;
+}
+div{
+    box-sizing: border-box;
+}
+header{
+    background-color: white;
+    padding: 0px;
+}
+header h1{
+    margin: 0;
+    text-align: center;
+}
+div.post{
+    background-color: white;
+    margin-top: 60px;
+}
+div.post img{
+    width: 100%;
+}
+div.post h2, div.post p{
+    padding: 10px;
+    margin: 0;
+}
+div.post .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post .post-header div:last-child{
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    padding: 15px;
+    color: lightgrey;
+}
+div.container{
+    width: 600px;
+    margin: auto;
+}
+#grid {
+    margin: 1em 1em 1em 1em;
+}
+.img {
+    width: 300px; /* You can set the dimensions to whatever you want */
+    height: 300px;
+}
+#navegador2 {
+padding: 0px;
+}
+#casillas {
+    background-color: #F7F7F7;
+}
+#navbtn2 {
+    background-color: #F7F7F7;
+}
